@@ -1,0 +1,1 @@
+[see the presentation](https://gitpitch.com/jschweda/testingstrategies/master)
